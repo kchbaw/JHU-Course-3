@@ -1,0 +1,90 @@
+The variables in "tidy step 5 out" are:
+
+"activity"  name of the activity the subject was performing when the data was recorded:  WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+"subject" person performing the activity (1 through 30)
+"tbodyaccmeanx"  mean of the linear body acceleration in x dimension measured in time
+"tbodyaccmeany"  mean of the linear body acceleration in y dimension measured in time
+"tbodyaccmeanz"  mean of the linear body acceleration in z dimension measured in time
+"tgravityaccmeanx" mean of the linear gravity acceleration in the x dimension measured in time
+"tgravityaccmeany" mean of the linear gravity acceleration in the y dimension measured in time
+"tgravityaccmeanz" mean of the linear gravity acceleration in the z dimension measured in time
+"tbodyaccjerkmeanx" mean of the linear body acceleration jerk signal in the x dimension measured in time
+"tbodyaccjerkmeany" mean of the linear body acceleration jerk signal in the y dimension measured in time
+"tbodyaccjerkmeanz" mean of the linear body acceleration jerk signal in the z dimension measured in time
+"tbodygyromeanx" mean of the anular body acceleration in x dimension measured in time
+"tbodygyromeany" mean of the anular body acceleration in y dimension measured in time
+"tbodygyromeanz" mean of the anular body acceleration in z dimension measured in time
+"tbodygyrojerkmeanx" mean of the angular body acceleration jerk signal in the x dimension measured in time
+"tbodygyrojerkmeany" mean of the angular body acceleration jerk signal in the y dimension measured in time
+"tbodygyrojerkmeanz" mean of the angular body acceleration jerk signal in the y dimension measured in time
+"tbodyaccmagmean"  mean of the magnitude calculated from Euclidean norm for the linear body accleration measured in time
+"tgravityaccmagmean" mean of the magnitude calculated from Euclidean norm for the linear gravity accleration measured in time
+"tbodyaccjerkmagmean" mean of the magnitude calculated from Euclidean norm for the linear body accleration jerk calculation measured in time
+"tbodygyromagmean" mean of the magnitude calculated from Euclidean norm for the angular body accleration measured in time
+"tbodygyrojerkmagmean" mean of the magnitude calculated from Euclidean norm for the angular body accleration jerk calculation measured in time
+"fbodyaccmeanx" Fast Fourier Transform output of the mean of the linear body acceleration in x dimension measured in time
+"fbodyaccmeany" Fast Fourier Transform output of the mean of the linear body acceleration in y dimension measured in time
+"fbodyaccmeanz" Fast Fourier Transform output of the mean of the linear body acceleration in z dimension measured in time
+"fbodyaccmeanfreqx" Fast Fourier Transform output of the mean of the linear body acceleration fequency component in x dimension measured in time
+"fbodyaccmeanfreqy" Fast Fourier Transform output of the mean of the linear body acceleration fequency component in y dimension measured in time
+"fbodyaccmeanfreqz" Fast Fourier Transform output of the mean of the linear body acceleration fequency component in z dimension measured in time
+"fbodyaccjerkmeanx" Fast Fourier Transform output of the mean of the linear body acceleration jerk signal in the x dimension measured in time
+"fbodyaccjerkmeany" Fast Fourier Transform output of the mean of the linear body acceleration jerk signal in the y dimension measured in time
+"fbodyaccjerkmeanz" Fast Fourier Transform output of the mean of the linear body acceleration jerk signal in the z dimension measured in time
+"fbodyaccjerkmeanfreqx" Fast Fourier Transform output of the mean of the linear body acceleration frequency component jerk signal in the x dimension measured in time
+"fbodyaccjerkmeanfreqy" Fast Fourier Transform output of the mean of the linear body acceleration frequency component jerk signal in the y dimension measured in time
+"fbodyaccjerkmeanfreqz" Fast Fourier Transform output of the mean of the linear body acceleration frequency component jerk signal in the z dimension measured in time
+"fbodygyromeanx" Fast Fourier Transform output of the mean of the anular body acceleration in x dimension measured in time
+"fbodygyromeany" Fast Fourier Transform output of the mean of the anular body acceleration in y dimension measured in time
+"fbodygyromeanz" Fast Fourier Transform output of the mean of the anular body acceleration in z dimension measured in time
+"fbodygyromeanfreqx" Fast Fourier Transform output of the mean of the angular body acceleration frequency component jerk signal in the x dimension measured in time
+"fbodygyromeanfreqy" Fast Fourier Transform output of the mean of the angular body acceleration frequency component jerk signal in the y dimension measured in time
+"fbodygyromeanfreqz" Fast Fourier Transform output of the mean of the angular body acceleration frequency component jerk signal in the z dimension measured in time
+"fbodyaccmagmean" Fast Fourier Transform output of the mean of the magnitude calculated from Euclidean norm for the linear body accleration measured in time
+"fbodyaccmagmeanfreq" Fast Fourier Transform output of the mean of the magnitude calculated from Euclidean norm for the linear body accleration frequency component measured in time
+"fbodybodyaccjerkmagmean" Fast Fourier Transform output of the mean of the magnitude calculated from Euclidean norm of linear body acceleration jerk signal measured in time
+"fbodybodyaccjerkmagmeanfreq" Fast Fourier Transform output of the mean of the magnitude calculated from Euclidean norm of linear body acceleration jerk signal frequency component measured in time
+"fbodybodygyromagmean" Fast Fourier Transform output of the mean of the magnitude calculated from Euclidean norm of the angular acceleration signal measured in time
+"fbodybodygyromagmeanfreq" Fast Fourier Transform output of the mean of the magnitude calculated from Euclidean norm of the angular acceleration signal frequency component measured in time
+"fbodybodygyrojerkmagmean" Fast Fourier Transform output of the the mean of the magnitude calculated from Euclidean norm of angular body acceleration jerk signal measured in time
+"fbodybodygyrojerkmagmeanfreq" Fast Fourier Transform output of the mean of the magnitude calculated from Euclidean norm of angular body acceleration jerk signal frequency component measured in time
+"angletbodyaccmeangravity" mean of angular vector measure of linear body acceleration gravity component
+"angletbodyaccjerkmeangravitymean" mean of angular vector measure of linear body acceleration gravity component jerk signal
+"angletbodygyromeangravitymean" mean of angular vector measure of angular body acceleration gravity component
+"angletbodygyrojerkmeangravitymean" mean of angular vector measure of angular body acceleration gravity component jerk signal
+"anglexgravitymean" mean of angular vector measure of gravity in x direction
+"angleygravitymean" mean of angular vector measure of gravity in y direction
+"anglezgravitymean" mean of angular vector measure of gravity in z direction
+"tbodyaccstdx"standard deviation measured in time of the linear body acceleration in the x direction
+"tbodyaccstdy" standard deviation measured in time of the linear body acceleration in the y direction
+"tbodyaccstdz" standard deviation measured in time of the linear body acceleration in the z direction
+"tgravityaccstdx" standard deviation measured in time of the linear gravity acceleration in the x direction
+"tgravityaccstdy" standard deviation measured in time of the linear gravity acceleration in the y direction
+"tgravityaccstdz" standard deviation measured in time of the linear gravity acceleration in the z direction
+"tbodyaccjerkstdx" standard deviation measured in time of the linear gravity acceleration in the x direction jerk signal
+"tbodyaccjerkstdy" standard deviation measured in time of the linear gravity acceleration in the y direction jerk signal
+"tbodyaccjerkstdz" standard deviation measured in time of the linear gravity acceleration in the z direction jerk signal
+"tbodygyrostdx" standard deviation measured in time of the angular body acceleration in the x direction
+"tbodygyrostdy" standard deviation measured in time of the angular body acceleration in the y direction
+"tbodygyrostdz" standard deviation measured in time of the angular body acceleration in the z direction
+"tbodygyrojerkstdx" standard deviation measured in time of the angular body acceleration in the x direction jerk signal
+"tbodygyrojerkstdy" standard deviation measured in time of the angular body acceleration in the y direction jerk signal
+"tbodygyrojerkstdz" standard deviation measured in time of the angular body acceleration in the z direction jerk signal
+"tbodyaccmagstd"  standard deviation measured in time of the magnitude calculated from Euclidean norm  of the linear body acceleration
+"tgravityaccmagstd" standard deviation measured in time of the magnitude calculated from Euclidean norm  of the linear gravity acceleration
+"tbodyaccjerkmagstd" standard deviation measured in time of the magnitude calculated from Euclidean norm of the linear body acceleration jerk signal
+"tbodygyromagstd" standard deviation measured in time of the magnitude calculated from Euclidean norm of the angular body acceleration
+"tbodygyrojerkmagstd" standard deviation measured in time of the magnitude calculated from Euclidean norm  of the angular body acceleration jerk signal
+"fbodyaccstdx" Fast Fourier Transform output of the standard deviation of the linear body acceleration in the x direction
+"fbodyaccstdy" Fast Fourier Transform output of the standard deviation of the linear body acceleration in the y direction
+"fbodyaccstdz" Fast Fourier Transform output of the standard deviation of the linear body acceleration in the z direction
+"fbodyaccjerkstdx" Fast Fourier Transform output of the standard deviation of the linear gravity acceleration in the x direction jerk signal
+"fbodyaccjerkstdy" Fast Fourier Transform output of the standard deviation of the linear gravity acceleration in the y direction jerk signal
+"fbodyaccjerkstdz" Fast Fourier Transform output of the standard deviation of the linear gravity acceleration in the z direction jerk signal
+"fbodygyrostdx" Fast Fourier Transform output of the standard deviation of the angular body acceleration in the x direction
+"fbodygyrostdy" Fast Fourier Transform output of the standard deviation of the angular body acceleration in the y direction
+"fbodygyrostdz" Fast Fourier Transform output of the standard deviation of the angular body acceleration in the z direction
+"fbodyaccmagstd" Fast Fourier Transform output of the standard deviation of the linear body acceleration
+"fbodybodyaccjerkmagstd" Fast Fourier Transform output of the standard deviation of the linear body acceleration jerk signal
+"fbodybodygyromagstd" Fast Fourier Transform output of the standard deviation of the angular body acceleration
+"fbodybodygyrojerkmagstd" Fast Fourier Transform output of the standard deviation of the angular body acceleration jerk signal
